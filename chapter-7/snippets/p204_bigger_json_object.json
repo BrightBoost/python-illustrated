@@ -1,0 +1,12 @@
+{
+   "name": "Zia",
+   "species": "cat",
+   "age": 1,
+   "favorite_foods": ["tuna", "chicken"],
+   "best_friend": {
+      "name": "Wiesje",
+      "species": "dog",
+      "age": 7,
+      "favorite_foods": ["kibble", "cheese"]
+   }
+}

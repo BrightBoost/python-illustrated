@@ -1,0 +1,22 @@
+{
+   "pets": [
+      {
+         "name": "Zia",
+         "species": "cat",
+         "age": 1,
+         "favorite_foods": ["tuna", "chicken"]
+      },
+      {
+         "name": "Wiesje",
+         "species": "dog",
+         "age": 7,
+         "favorite_foods": ["kibble","cheese"]
+      },
+      {
+         "name": "Axel",
+         "species": "axolotl",
+         "age": 2,
+         "favorite_foods": ["earthworms", "pellets"]
+      }
+   ]
+}

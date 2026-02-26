@@ -1,0 +1,1 @@
+fav_nap_spots = ["window", "cardboard box", "human's lap", "luxurious cat bed"]
